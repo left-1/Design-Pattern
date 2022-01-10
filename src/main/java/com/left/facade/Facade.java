@@ -1,4 +1,4 @@
-package com.left.factory;
+package com.left.facade;
 
 /**
  * 门面（外观）模式
